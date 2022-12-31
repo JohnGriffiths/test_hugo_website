@@ -1,4 +1,4 @@
-baseURL = "https://johngriffiths.github.io/"
+baseURL = "https://johngriffiths.github.io/test_hugo_website"
 languageCode = "en-ca"
 preserveTaxonomyNames = true
 
