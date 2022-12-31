@@ -1,4 +1,4 @@
-baseURL = "https://johngriffiths.github.io/test_hugo_website"
+baseURL = 'https://johngriffiths.github.io/test_hugo_website/'
 languageCode = "en-ca"
 preserveTaxonomyNames = true
 
@@ -30,5 +30,5 @@ preserveTaxonomyNames = true
   [[menu.main]]
     name = "Software"
     target = "_blank"
-    url = "https://github.com/PoisotLab/"
+    url = "https://github.com/GriffithsLab/"
     weight = 6
