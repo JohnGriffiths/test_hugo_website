@@ -1,7 +1,0 @@
-_site/
-*.lock
-*~
-.sass-cache/*
-vendor/
-Gemfile.lock
-public/
